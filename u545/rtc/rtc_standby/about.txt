@@ -1,0 +1,1 @@
+waking up mc from standby mode using pc13 (rtc)
